@@ -52,7 +52,7 @@ This model is useful for:
 
 We define:
 
-```math
+   math
 EF(x) = ∑ᵢ wᵢ · fᵢ(pᵢ)
 
 Where:
@@ -127,7 +127,7 @@ Cloning (K)	f(p) = -a(p - 0.5)² + b	Balanced optimum
 Communication (M)	f(p) = log(1 + a·p)	Logarithmic growth
 Learning (L)	f(p) = 1 / (1 + e^(−k(p − θ)))	Sigmoid
 
-![Hybrid model](images/EF_all_params_with_L.png.png)
+![Hybrid model](images/EF_all_params_with_L.png)
 
 🔗 Integration into the AI Project
 
